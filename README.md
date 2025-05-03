@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cookey-monster-ebaymcpserver-badge.png)](https://mseep.ai/app/cookey-monster-ebaymcpserver)
+
 # Ebay MCP server
 
 Simple Ebay server that lets you fetch auctions from Ebay.com
